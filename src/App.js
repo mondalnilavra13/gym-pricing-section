@@ -6,7 +6,6 @@ function GymPricing() {
     <div className="pricing-container">
       <div className="pricing-plan">
         <h2>Basic</h2>
-        <img src="https://images.pexels.com/photos/416809/pexels-photo-416809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g" alt="Premium plan" />
         <h3>$19.99/month</h3>
         <ul>
           <li>Access to gym during regular hours</li>
@@ -16,8 +15,7 @@ function GymPricing() {
         <button>Sign Up</button>
       </div>
       <div className="pricing-plan">
-        <h2>Premium</h2>
-        <img src="https://images.pexels.com/photos/416809/pexels-photo-416809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g" alt="Premium plan" />
+        <h2>Premium</h2>     
         <h3>$49.99/month</h3>
         <ul>
           <li>24/7 gym access</li>
@@ -28,7 +26,6 @@ function GymPricing() {
       </div>
       <div className="pricing-plan">
         <h2>Elite</h2>
-        <img src="https://images.pexels.com/photos/416809/pexels-photo-416809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g" alt="Premium plan" />
         <h3>$99.99/month</h3>
         <ul>
           <li>24/7 gym access</li>
